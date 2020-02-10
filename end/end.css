@@ -1,0 +1,28 @@
+ @CHARSET "UTF-8";
+body{
+    background-color: #060;
+}
+
+.animal{
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#animal1{
+    background-image: url('1car.png');
+    left: 100px;
+    top: 270px;
+}
+
+#animal2{
+    background-image: url('2car.png');
+    left: 100px;
+    top: 320px;
+}
+
+               
+                
